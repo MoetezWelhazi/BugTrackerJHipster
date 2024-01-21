@@ -18,7 +18,7 @@ import org.hibernate.annotations.Cache;
 import org.hibernate.annotations.CacheConcurrencyStrategy;
 
 /**
- * A user.
+ * A user. test change
  */
 @Entity
 @Table(name = "jhi_user")
